@@ -9,3 +9,5 @@
                     <br>
                    
 <br>
+<h2 style="color: #44AEFB"> | 🖥️🖌️ Desarrollador AgusTheKing</h2>
+<br />
