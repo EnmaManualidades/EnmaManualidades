@@ -10,4 +10,6 @@
                    
 <br>
 <h2 style="color: #44AEFB"> | 🖥️🖌️ Desarrollador AgusTheKing</h2>
+<a href="https://github.com/AgusTheKing" style="border-radius:20px;" class="social-icon" target="_blank">https://github.com/AgusTheKing</a>
+                  
 <br />
