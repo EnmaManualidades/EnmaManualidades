@@ -9,7 +9,7 @@
                     <br>
                    
 <br>
-<h2 style="color: #44AEFB"> | 🖥️🖌️ Desarrollador AgusTheKing</h2>
+<h2 style="color: #44AEFB"> | 🖥️🖌️ Desarrollador Agustin Benitez</h2>
 <a href="https://github.com/Agustinbeniteez" style="border-radius:20px;" class="social-icon" target="_blank">https://github.com/Agustinbeniteez</a>
                   
 <br />
